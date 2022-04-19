@@ -1,7 +1,5 @@
 # Contact_Management_App
 
-# Contact_Management_App
-
 ## Context of the project
 
 You need to create a website where users can create an account and then log in to manage a private list of contacts. The website will use databases to store user login data, as well as to store each user's contacts.
